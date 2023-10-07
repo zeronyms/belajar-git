@@ -3,3 +3,11 @@ Ini text diedit pada 15.34
 
 
 text baru ditambahkan pada pukul 15.38
+
+
+hari ini saya akan mengerjakan
+-laporan tugas pemrograman web
+-mengerjakan laporan mengenai cara kerja version control system
+-mengerjakan tugas psd
+
+serta saya akan melanjutkan pemrograman mobile menggunakan flutter
